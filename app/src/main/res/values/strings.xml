@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Grupee Assignment</string>
+    <string name="liked_profiles">Liked Profiles</string>
+    <string name="liked_at">Liked At</string>
+    <string name="image_saved_successful">Image Saved</string>
+    <string name="image_not_saved">Couldn\'t save the Image</string>
+    <string name="no_liked_images">No Liked Images</string>
+    <string name="dog_wishlist">Dog Wishlist</string>
+</resources>
